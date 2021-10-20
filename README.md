@@ -1,2 +1,2 @@
 # SpotifyGo
- External app to manage spotify playlist
+ External app to export spotify playlist
